@@ -17,7 +17,7 @@ To run this project locally, follow the steps below:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/rtk-query-example.git
+   git clone https://github.com/yourusername/rtk-query-tutorial.git
    ```
 
 2. Navigate into the project directory:
